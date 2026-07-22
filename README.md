@@ -3,7 +3,7 @@
 
 An interactive HR analytics dashboard built in **Power BI** to explore employee attrition patterns and identify factors associated with employee turnover.
 
-![Dashboard Preview](HR Attrition Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
@@ -28,13 +28,13 @@ The goal of this project is to demonstrate data visualisation, dashboard design,
 
 The dataset contains information on **1,470 employees**, including:
 
-- 👤 Employee demographics
-- 🏢 Department
-- 💼 Job Role
-- 💰 Monthly Income
-- ⏳ Years at Company
-- ⏰ Overtime
-- 📉 Attrition
+- Employee demographics
+- Department
+- Job Role
+- Monthly Income
+- Years at Company
+- Overtime
+- Attrition
 
 ---
 
@@ -43,8 +43,7 @@ The dataset contains information on **1,470 employees**, including:
 - Power BI Desktop
 - Power Query
 - DAX
-- CSV Dataset
-
+  
 ---
 
 ## 📈 Dashboard Features
