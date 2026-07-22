@@ -84,25 +84,12 @@ The dashboard includes custom DAX measures such as:
 ## 💡 Key Insights
 
 - Overall employee attrition rate is **16.1%**.
-- Employees working overtime account for the majority of attrition cases.
 - Sales has the highest attrition rate among all departments.
 - Employees aged **26–35** represent the largest group of employees leaving the company.
 - Attrition is highest during the first years of employment and decreases as employee tenure increases.
 - Laboratory Technicians and Sales Executives experience the highest number of employees leaving.
 - Lower income bands have the highest number of attrition cases.
+- Employees working overtime account for the majority of attrition cases
 
 ---
 
-## 🖼 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
-
-## 🎯 Skills Demonstrated
-
-- Data preparation using Power Query
-- DAX calculations
-- Data visualisation 
-- HR analytics
----
