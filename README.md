@@ -3,7 +3,7 @@
 
 An interactive HR analytics dashboard built in **Power BI** to explore employee attrition patterns and identify factors associated with employee turnover.
 
-![Dashboard Preview](images/HR Attrition Dashboard.png)
+![Dashboard Preview](HR Attrition Dashboard.png)
 
 ---
 
