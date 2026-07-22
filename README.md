@@ -1,24 +1,29 @@
-
 # 📊 HR Attrition Analysis Dashboard
-
-An interactive HR analytics dashboard built in **Power BI** to explore employee attrition patterns and identify factors associated with employee turnover.
-
-![Dashboard Preview](dashboard.png)
-
----
 
 ## 📌 Project Overview
 
-This project analyses the IBM HR Analytics Employee Attrition dataset using Power BI.
+This project presents an interactive HR analytics dashboard built in Power BI to explore employee attrition patterns and identify factors associated with employee turnover.
 
-The dashboard enables users to:
+The dashboard transforms insights discovered during the Python exploratory analysis into an interactive reporting solution that allows users to monitor key HR metrics and explore attrition trends.
 
-- Monitor key HR metrics
-- Analyse employee attrition across different departments and job roles
-- Explore the relationship between attrition and factors such as age, overtime, monthly income, and years at the company
-- Filter results interactively by department
 
-The goal of this project is to demonstrate data visualisation, dashboard design, and DAX skills while providing actionable HR insights.
+---
+
+## 🎯 Business Problem
+
+Employee attrition can result in increased hiring costs, loss of experienced employees, and operational challenges.
+
+The HR department needs visibility into employee turnover patterns to identify areas with higher attrition risk and support workforce retention strategies.
+
+---
+
+## 🎯 Objectives
+
+- Create an interactive HR analytics dashboard.
+- Track key employee attrition KPIs.
+- Analyse turnover patterns across departments and employee characteristics.
+- Identify groups with higher attrition levels.
+- Provide clear insights to support HR decision-making.
 
 ---
 
@@ -30,11 +35,12 @@ The dataset contains information on **1,470 employees**, including:
 
 - Employee demographics
 - Department
-- Job Role
-- Monthly Income
-- Years at Company
+- Job role
+- Monthly income
 - Overtime
-- Attrition
+- Years at company
+- Attrition status
+
 ---
 
 ## 🛠 Tools & Technologies
@@ -42,47 +48,63 @@ The dataset contains information on **1,470 employees**, including:
 - Power BI Desktop
 - Power Query
 - DAX
+- Data visualisation
+
 ---
 
 ## 📈 Dashboard Features
 
-# KPI Cards
+### KPI Cards
 
 - 👥 Total Employees
 - 🚪 Employees Left
 - 📉 Attrition Rate
 - ⏳ Average Tenure of Employees Who Left
-  
-# Visualisations
+
+### Visualisations
 
 - 📊 Attrition Rate by Department
 - 🕒 Attrition by Overtime
 - 👥 Employees Left by Age Group
-- 💼 Attrition by Job Role
+- 💼 Employees Left by Job Role
 - 💰 Employees Left by Income Band
-- 📈 Attrition by Years at the Company
+- 📈 Attrition by Years at Company
 
-# Interactive Features
+### Interactive Features
 
-- 🎛 Department slicer
+- 🎛 Department slicer for dynamic filtering
+
 ---
-# 🧮 DAX Measures
 
-The dashboard includes custom DAX measures such as:
+## 🧮 DAX Measures
+
+The dashboard includes custom DAX measures including:
 
 - Employees Left
 - Attrition Rate
-- Average Tenure (Leavers)
-- Monthly Income 
----
-# 💡 Key Insights
+- Average Tenure of Leavers
+- Monthly Income Analysis
+  
+![Dashboard Preview](dashboard.png)
 
-- Overall employee attrition rate is **16.1%**.
-- Sales has the highest attrition rate among all departments.
-- Employees aged **26–35** represent the largest group of employees leaving the company.
-- Attrition is highest during the first years of employment and decreases as employee tenure increases.
-- Laboratory Technicians and Sales Executives experience the highest number of employees leaving.
-- Lower income bands have the highest number of attrition cases.
-- Employees working overtime account for the majority of attrition cases
 ---
 
+## 💡 Key Findings
+
+- **Overall attrition rate:** 16.1%.
+
+- **Department:** Sales has the highest attrition rate among departments.
+
+- **Age:** Employees aged 26–35 represent the largest group of employees leaving the company.
+
+- **Tenure:** Employees in the early years of employment show the highest attrition levels.
+
+- **Overtime:** Employees working overtime show higher turnover levels.
+
+---
+
+## 🔗 Related Project
+
+The Power BI dashboard was developed after completing the Python exploratory analysis of the same HR dataset.
+
+➡️ [HR Attrition Analysis with Python](https://www.example.com](https://github.com/YuliaGrinenko/HR-Attrition-Data-Analysis-Python))
