@@ -101,6 +101,8 @@ The dashboard includes custom DAX measures including:
 
 - **Overtime:** Employees working overtime show higher turnover levels.
 
+[Open HR Analytics Dashboard](HR%20Attrition%20Analysis.pbix)
+
 ---
 
 ## 🔗 Related Project
