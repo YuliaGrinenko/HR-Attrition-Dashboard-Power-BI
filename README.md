@@ -85,7 +85,7 @@ The dashboard includes custom DAX measures including:
 - Average Tenure of Leavers
 - Monthly Income Analysis
   
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](.png)
 
 ---
 
